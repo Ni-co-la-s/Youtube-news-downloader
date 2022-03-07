@@ -27,6 +27,7 @@ After that, the videos are downloaded using yt_dlp (better performance than yout
 Clone this project or place the 3 files (main.py, news_downloader.py and urls_list.txt) in the same folder.
 Write in urls_list.txt the urls of the News Youtube channels you are interested in (one per line, no separator)
 Make sure that you have installed all of the dependencies stated above and that the path given in vlc_path correspond to the executable of VLC on your computer (correct it if needed).
+If needed, change in main.py the parameters max_duration (set the maximum duration acccepted for a video) and duration (duration of the total that you do not want to exceed).
 
 
 ### Executing program
