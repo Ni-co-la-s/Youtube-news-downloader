@@ -1,6 +1,6 @@
 # Youtube news downloader
 
-This program aims to be executed daily in order to download recent videos from news Youtube channels.
+This program aims to be executed daily in order to download recent videos from news Youtube channels of your choosing.
 
 ## Description
 
